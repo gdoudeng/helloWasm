@@ -1,0 +1,8 @@
+/cocos2dx-minigame/emscripten-build
+/cocos2dx-minigame/publish
+/cocos2dx-minigame/runtime
+/cocos2dx-minigame/simulator
+/minigame/miniprogram/wasm
+
+Debug.win32
+.vs
